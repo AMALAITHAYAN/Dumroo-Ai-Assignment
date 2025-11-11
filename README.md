@@ -58,12 +58,7 @@ ADMIN_SCOPE = {
 
 How to run this project
 1. Prerequisites
-
 Python 3.10+
-
-pip installed
-
-(Optional but recommended) virtualenv or venv
 
 python -m venv .venv
 source .venv/bin/activate      # Windows: .venv\Scripts\activate
@@ -72,8 +67,6 @@ pip install -r requirements.txt
 
 
 
-source .venv/bin/activate      # if not already active
-python app.py
 
 
 You’ll see:
@@ -106,16 +99,6 @@ streamlit run streamlit_app.py
 
 Then open the URL shown in the terminal (usually http://localhost:8501).
 
-In the browser:
-
-Use the sidebar to set:
-
-Grade
-
-Class Section
-
-Region
-(this defines the admin scope)
 
 Type a natural language question:
 
