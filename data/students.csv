@@ -1,0 +1,7 @@
+student_id,student_name,grade,class_section,region,homework_name,homework_submitted,homework_due_date,quiz_name,quiz_score,quiz_date
+1,Aarav Patel,8,A,North,Algebra Worksheet,No,2025-11-10,Algebra Quiz 1,78,2025-11-03
+2,Diya Sharma,8,A,North,Algebra Worksheet,Yes,2025-11-10,Algebra Quiz 1,92,2025-11-03
+3,Ishaan Verma,8,B,North,Algebra Worksheet,No,2025-11-10,Algebra Quiz 1,65,2025-11-03
+4,Meera Joshi,7,A,North,Fractions Homework,Yes,2025-11-09,Fractions Quiz,88,2025-11-02
+5,Rohan Singh,8,A,North,Geometry Assignment,No,2025-11-17,Geometry Quiz,0,2025-11-18
+6,Ananya Iyer,8,A,South,Algebra Worksheet,Yes,2025-11-10,Algebra Quiz 1,85,2025-11-03

@@ -1,0 +1,6 @@
+langchain
+langchain-openai
+pandas
+python-dotenv
+streamlit
+langchain-google-genai 
